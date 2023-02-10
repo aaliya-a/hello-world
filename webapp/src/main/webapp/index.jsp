@@ -1,8 +1,2 @@
-<h1> vanakam da mapla web browser la irundh
-	QMJYWDGSBCASMNBCKJWADKY
-	QKJWHDGUKAwahdcjwnmdc
-	jmqwhdhnkjqwdfn
-	awnmbdjqdw
-	qnwbdkqwjbdh
-	u </h1>
+<h1> risk rishab boxer rishab reddoll rishab </h1>
 
