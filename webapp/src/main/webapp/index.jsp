@@ -1,2 +1,2 @@
-<h1> Welcome to Self-Project CICD </h1>
-      <h2> CICD Successfully completed <h2>
+<h1> Welcome to DevOps CICD </h1>
+      <h2> Jenkins triggered by GITHUB webhook <h2>
